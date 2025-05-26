@@ -1,17 +1,17 @@
 # Sales-Data-Analysis-and-Dashboard
-Project Overview:
+» Project Overview:
 This project showcases a Sales Dashboard built using Microsoft Power BI. The dashboard provides key insights into sales performance, product distribution, and segment-wise trends. The goal is to help stakeholders make data-driven decisions based on visualized and summarized sales metrics.
 
-Objectives:
+» Objectives:
 
-Visualize total sales, profit, and profit margin.
+• Visualize total sales, profit, and profit margin.
 
-Analyze sales distribution by segment and product.
+• Analyze sales distribution by segment and product.
 
-Identify sales trends over time (monthly/yearly).
+• Identify sales trends over time (monthly/yearly).
 
-Create a dynamic and interactive report for business users.
+• Create a dynamic and interactive report for business users.
 
-Use DAX to calculate KPIs such as Profit Margin.
+• Use DAX to calculate KPIs such as Profit Margin.
 
-Dataset: kaggle- Financial Data
+» Dataset: kaggle- Financial Data
